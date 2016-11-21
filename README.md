@@ -13,3 +13,13 @@
 
 ## 课程页面
 ![Mou icon](img/jyb-page3.png)
+
+
+
+
+####打开方法
+1. 先打开控制台进入mongodb/bin 
+2. 输入./mongod
+3. 再重开一个控制台进入jingyingba
+4. 输入npm start
+5. 然后在浏览器中输入地址http://127.0.0.1:3000/
